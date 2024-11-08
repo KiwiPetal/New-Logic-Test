@@ -27,7 +27,7 @@ or build it into a production version:
 ```bash
 npm run build && npm run start
 # or
-yarn dev && yarn start
+yarn build && yarn start
 ```
 
 Both will start the server on a port 3000 by default. You can override that with a flag `-p <PORT>`.
